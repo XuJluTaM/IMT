@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="underweight_recommendations">Рекомендации для недостаточного веса: ...</string>
+    <string name="normal_recommendations">Рекомендации для нормального веса: ...</string>
+    <string name="overweight_recommendations">Рекомендации для избыточного веса: ...</string>
+</resources>
